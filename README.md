@@ -9,6 +9,9 @@ CREATING THE CALCULATER :
 * USING THE JAVA GUI BASE CREAT THIS CODING
 * ADDIND ALL DOC ADDED
 * Full Process:
+* Execution and Running command use that
+* The class name and program file neme will be same is important
+* Then Name as been different error will be displayed
 *&& javac Calculatorpro.java && java Calculatorpro
 * Compile Calculatorpro.java.
 * If successful, run Calculatorpro.
